@@ -1,5 +1,5 @@
 ## Overview
-This is example project to demonstrate how to use maven-assembly-plug to package a SpringBoot application into a non-fat jar.
+This is example project to demonstrate how to use maven-assembly-plugin to package a SpringBoot application into a non-fat jar.
 <br/>
 <br/>
 The resulting package structure will be:
