@@ -53,8 +53,8 @@ The resulting package structure will be:
     └── example.log
 ```
 
-##THANKS
+## THANKS
 The start.sh and stop.sh scripts borrowed a lot of inspiration from Zhang Kaitao's blog: 
-#####[是时候闭环Java应用了](http://jinnianshilongnian.iteye.com/blog/2317830)
+##### [是时候闭环Java应用了](http://jinnianshilongnian.iteye.com/blog/2317830)
 
 Many thanks to Kaitao!
