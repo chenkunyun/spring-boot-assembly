@@ -1,0 +1,41 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+logs/
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# eclipse ignore
+.settings/
+*/.settings/
+
+.project
+.classpath
+*/.classpath
+.springBeans
+rebel.xml
+build/
+
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+*.project
+.settings
+*.class
