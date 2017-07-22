@@ -14,7 +14,7 @@ if [ -n "${PIDs}" ]; then
     exit 1
 fi
 
-# extra classpath
+# classpath
 CLASSPATH="${PACKAGE_HOME}/classes:${PACKAGE_HOME}/lib/*"
 
 # JVM startup parameters
